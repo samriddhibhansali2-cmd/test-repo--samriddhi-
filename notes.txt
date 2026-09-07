@@ -1,0 +1,2 @@
+This is my first Git note.
+I am learning the basic Git workflow.
